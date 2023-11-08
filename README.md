@@ -1,3 +1,5 @@
+> This tool may no longer function. It is available here for future reference. The code is jank, be warned.
+
 <img src="resources/icon.png" align="right" height="84" />
 
 # Bulk Audio Reupload Helper [![License](https://img.shields.io/github/license/the-sink/roblox-reuploader)](https://github.com/the-sink/roblox-reuploader/blob/main/LICENSE) [![Issues](https://img.shields.io/github/issues/the-sink/roblox-reuploader)](https://github.com/the-sink/roblox-reuploader/issues)
